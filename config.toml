@@ -11,9 +11,9 @@ enabled = true
 build-mode = "module"
 excluded-patches = ""
 included-patches = ""
+patcher-args = "-e 'Custom branding' -OappName='Vanced Bro'"
 version = "20.07.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-patcher-args = "-e 'Custom branding' -OappName=Vanced Bro"
 
 
 [YouTube-Extended]

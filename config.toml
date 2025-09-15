@@ -15,6 +15,7 @@ version = "20.07.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+patcher-args = "-e 'Custom branding' -OappName=Vanced Bro"
 
 
 [YouTube-Extended]
